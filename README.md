@@ -1,2 +1,2 @@
 # Landing-page-
-creating a Responsive web page using a HTML & CSS 
+creating a Responsive web page using a HTML & CSS.
